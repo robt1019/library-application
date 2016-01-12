@@ -1,0 +1,27 @@
+{
+  "name": "library",
+  "version": "0.0.0",
+  "description": "ERROR: No README data found!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodejs app.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.13.3",
+    "jade": "~1.11.0",
+    "express-handlebars": "~2.0.1",
+    "ejs": "~2.3.4"
+  },
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "jshint-stylish": "~2.1.0",
+    "gulp-jshint": "~2.0.0",
+    "gulp-jscs": "~3.0.2",
+    "wiredep": "~3.0.0",
+    "gulp-inject": "~3.0.0",
+    "nodemon": "~1.8.1"
+  }
+}
