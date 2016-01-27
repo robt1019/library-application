@@ -6,11 +6,13 @@ var books = [{
     title: 'War and Peace',
     genre: 'Historical Fiction',
     author: 'Lev Nikolayevich Tolstoy',
+    bookId: 656,
     read: false
 }, {
     title: 'The Wind up Bird Chronicle',
     genre: 'Fantasy/Magic Realism',
     author: 'Haruki Murakami',
+    bookId: 11275,
     read: true
 }, {
     title: 'Tom Sawyer',
